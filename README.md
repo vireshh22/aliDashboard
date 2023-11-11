@@ -1,6 +1,7 @@
 # alisdashboard
 
 A new Flutter project.
+Author-Viresh Hiremath
 
 ## Getting Started
 
